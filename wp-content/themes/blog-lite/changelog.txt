@@ -1,0 +1,54 @@
+== Change log ==
+= 1.1.7 - 11 Jan 2018 =
+* Minor Changes in css
+* Compatibility check with WP 5.0.3
+* Added sidebar options.
+
+= 1.1.6 - 7 August 2017 =
+* Compatibility check with WP 4.8
+* Added option of Read More text in Slider Section.
+* Added option for slider effect.
+* Added Author bio info
+
+
+= 1.1.5 - December 15 2016 =
+* Remove custom css function since it is in default in 4.7
+* Added option for auto slider
+* Added option to enable/disable breadcrumb
+* Add button to upgrade to pro
+* Fix the issue of translation 
+* fix the issue of prefix 
+
+= 1.1.4 - November 2 2016 =
+* License for missing assets added
+* Fixed minor translation bugs
+* Removed features that fall under plugin territory
+* Escaped (missing) user input data.
+
+
+= 1.1.3 - September 25 2016 =
+* Font URL changed
+* Conditional logics changed
+* Prefixings Updated
+* Search page modified
+* Translation missing texts updated
+
+
+= 1.0.3 - August 15 2016 =
+* Theme URI changed
+* Style for sticky header added
+* Unused images and files removed
+
+= 1.0.2 - August 13 2016 =
+* Security bug fixed
+* Sanitization and validation added
+* Customizer updated with more options to manage theme
+
+= 1.0.1 - July 11 2016 =
+* Description changed, demo url added and screenshot updated.
+* Option for banner or slider added
+* Top bar added in header
+* Changes on customizer to manage options
+
+= 1.0.0 - May 12 2015 =
+* Initial release
